@@ -3324,7 +3324,6 @@ stannis	Who would steal the northern half of my kingdom Ive always served thieve
 cressen	I owe you an apology, my King My duty is to serve You have chosen the new God over the Old Gods May the Lord of Light watch over us all Shall we drink together?
 davos	Dont
 cressen	A cup of wine to honor the one true God
-unphased melisandre	The night is dark and full of terrors, old man, but the fire burns them all away Your Grace
 jaime	King in the North I keep expecting you to leave me in one castle or another for safekeeping, but you drag me along from camp to camp Have you grown fond of me, Stark? Is that it? Ive never seen you with a girl
 robb	If I left you with one of my bannermen, your father would know within a fortnight, and my bannerman would receive a raven with a message, Release my son and youll be rich beyond your dreams Refuse and your house will be destroyed, root and stem
 jaime	You dont trust the loyalty of the men following you into battle?
