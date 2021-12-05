@@ -1,4 +1,4 @@
-﻿Rick	Morty! You gotta come on. Jus'... you gotta come with me.
+Rick	Morty! You gotta come on. Jus'... you gotta come with me.
 Morty	What, Rick? What’s going on?
 Rick	I got a surprise for you, Morty.
 Morty	It's the middle of the night. What are you talking about?
@@ -1363,9 +1363,6 @@ Morty	He turned himself into a pickle.
 Beth	Morty, Mom's talking. I'm sorry, I suppose that's a good segue into our little discipline cases here.
 Dr. Wong	Does Grandpa turn himself into a pickle a lot?
 Beth	What? No, what kind of question is that?
-Dr. Wong	The kind that wasn't designed to attack or hurt you in any way.
-Dr. Wong	Okay, let's open things up to the whole family, and let me ask this. Why do we think Grandpa turned himself into a pickle?
-Pickle Rick	Wow. Ugh.
 Beth	I didn't say my father is perfect, I said his work is important.
 Summer	And she's saying what's important is that Grandpa lied to you to get out of coming here.
 Beth	Oh, he did not!
