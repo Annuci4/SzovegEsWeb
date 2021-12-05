@@ -1429,8 +1429,8 @@ Agency Director	Tell them we were robbed.
 Agency Director	Farewell, Solen'ya.
 Pickle Rick	Well, my daughter is about five away, and I've got about eight to live.
 Pickle Rick	Oh, well, uh, she knows. I mean, we don't really buy into that kind of crap, to the extent that love is an expression of
-Pickle Rick	Ugh.
-Dr. Wong	You must be Rick.
+Pickle Rick Ugh.
+Dr. Wong  You must be Rick.
 Pickle Rick	Mm-hmm.
 Dr. Wong	I've heard a lot about you today. Your family is crazy about you. Your daughter holds you in very high regard. You're a lucky
 Pickle Rick	Yeah, thank you. Uh, sweetie, you don't still happen to have that syringe in your purse?
