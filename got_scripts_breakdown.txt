@@ -3337,7 +3337,7 @@ tyrion	And so did the country
 shae	This is where I belong
 tyrion	Yes, well, you need to be careful No one can know youre here
 shae	No one will know
-tyrion	"You cant trust anyone in Kings Landing Theyre all liars	 good liars, bad liars, one or two great liars"
+tyrion	"You cant trust anyone in Kings Landing Theyre all liars good liars, bad liars, one or two great liars"
 shae	What about you?
 tyrion	Me? Im not from here Im a slave to the truth
 shae	Truth? You are the biggest little liar I have ever met
