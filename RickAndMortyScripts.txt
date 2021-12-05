@@ -1429,13 +1429,6 @@ Agency Director	Tell them we were robbed.
 Agency Director	Farewell, Solen'ya.
 Pickle Rick	Well, my daughter is about five away, and I've got about eight to live.
 Pickle Rick	Oh, well, uh, she knows. I mean, we don't really buy into that kind of crap, to the extent that love is an expression of
-Pickle Rick	Huh? Uh, no. No, nope, sorry about that. Nope, just me. Yeesh!
-Beth	I am afraid that my kids will get expelled.
-Dr. Wong	Good. Summer, you go.
-Summer	I am mad that I can't huff enamel without people assuming it's because my family sucks. I hope to be seen one day as someone th
-Dr. Wong	"Good job. Morty, do you have an ""I"" statement?"
-Morty	I am sad that I peed. I'm sad that I peed in class instead of a toilet.
-Dr. Wong	Look at this family go. You guys are pros. What do you guys think about doing this once a week?
 Pickle Rick	Ugh.
 Dr. Wong	You must be Rick.
 Pickle Rick	Mm-hmm.
